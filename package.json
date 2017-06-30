@@ -1,0 +1,22 @@
+{
+  "name": "dupe-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dooptroop/dupe-chat.git"
+  },
+  "author": "mdupree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dooptroop/dupe-chat/issues"
+  },
+  "homepage": "https://github.com/Dooptroop/dupe-chat#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
