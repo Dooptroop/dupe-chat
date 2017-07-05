@@ -1,3 +1,6 @@
+
+.idea/
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
@@ -59,6 +62,3 @@ typings/
 # dotenv environment variables file
 .env
 
-.idea/
-.idea/runConfigurations
-.idea/workspace.xml
